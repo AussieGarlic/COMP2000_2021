@@ -4,7 +4,7 @@
 
 The current state of `Stage` is untidy, and two of the patterns I've implemented will go a long way to making this class much cleaner and more comprehensible. The first of these patterns is the *composite* pattern.
 
-Originally I had planned to utilise the *decorator* pattern, or perhaps even the *observer* pattern however after seeing a couple of students use *composite* in an interesting and efficient way I decided that it would be good to replicate it here.
+Originally I had planned to utilise the *decorator* pattern, or perhaps even the *observer* pattern however after seeing a couple of students use *composite* in an interesting and efficient way I decided that it would be good to replicate it here.  One student's solution in particular stood out, that being *Ethan Longe*. I've reproduced his submission here was some minor changes, well done Ethan!
 
 It suits our requirements for Pattern 1, as it was discussed during week 7.
 *Composite* is a *Strutural* pattern.
